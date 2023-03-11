@@ -2,5 +2,5 @@
     <string name="app_name">Светофор</string>
     <string name="red">красный</string>
     <string name="green">зелёный</string>
-    <string name="yellow">желтый</string>
+    <string name="yellow">жёлтый</string>
 </resources>
