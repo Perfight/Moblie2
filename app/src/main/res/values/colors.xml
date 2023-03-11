@@ -7,8 +7,8 @@
     <color name="color_primary">#6A6A6A</color>
     <color name="red_text_background">#FF3B2C</color>
     <color name="red_button">#FF9595</color>
-    <color name="yellow_text_background">#EAD100</color>
-    <color name="yellow_button">#F6EA82</color>
+    <color name="yellow_text_background">#FFE400</color>
+    <color name="yellow_button">#FFF27B</color>
     <color name="green_text_background">#2CF434</color>
     <color name="green_button">#87FF8D</color>
 </resources>
